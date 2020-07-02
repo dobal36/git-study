@@ -1,6 +1,10 @@
 #include <stdio.h>
 
+<<<<<<< HEAD
 int sum(int  , int );  // sum function
+=======
+int sum(int v1 , int v2); // 두 정수의 합을 구하는 함수
+>>>>>>> newJob
 
 int main(int argc , char* argv[]) {
 
